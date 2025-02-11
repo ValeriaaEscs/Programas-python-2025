@@ -3,12 +3,9 @@
 - vandrea.es@gmail.com
 
 ## Actividad 1
-- Programa 1
-- Programa 2
-- Programa 3
+- p001-hola-mundo
+- p002-area-circulo
+- p003-area-traingulo
+- p004-paga-trabajador
 
 ## Actividad 2
-- Programa 4
-- Programa 5
-
-## Actividad 3
