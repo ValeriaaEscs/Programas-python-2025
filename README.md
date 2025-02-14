@@ -17,3 +17,11 @@
 - p006-operaciones-matematicas
 - p007-funciones-trigonometricas
 - p008-dividir-cifras
+
+# Tarea 1
+- p009-hipotenusa-triangulo
+- p010-tercer-angulo
+- p011-convertir-temperatura
+- p012-volumen-cilindro
+- p013-calculo-tiempo
+- p014-numero-suerte
