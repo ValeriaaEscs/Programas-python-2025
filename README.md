@@ -39,6 +39,9 @@
 - p022-tipo-angulo
 
 # Tarea 2
-- p023
-- p024
-- p025
+- p023-numeros-consecutivos
+- p024-numero-mayor
+- p025-dia-semana
+- p026-numeros-romanos
+- p027-calculo-notas
+- p028-aceptar-estudiante-v2
