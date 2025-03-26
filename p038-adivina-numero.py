@@ -19,4 +19,5 @@ while(True):
      else:
         print('El numero secreto es mas pequeño')
  if input('Deseas Continuar (S/N) ? ').upper() == 'N': break 
- print('\nProceso Terminado')
+ 
+print('\nProceso Terminado')

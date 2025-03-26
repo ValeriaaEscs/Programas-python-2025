@@ -59,3 +59,14 @@
 - p036-tabla-multiplicar
 - p037-tabla-multiplicar-v2
 - p038-adivina-numero
+
+# Tarea 3
+- p039-impares-ascendente
+- p040-pares-descendente
+- p041-promedio-suma
+- p042-suma-200
+- p043-conversion-temperaturas
+- p044-numero-mayor
+
+# Primer Examen Parcial
+- p045-primer-examen-parcial
