@@ -108,3 +108,20 @@
 - p071-dia-paga
 - p072-nombres-edades
 - p073-listas-aleatorios
+
+# Tarea 5
+- p074-procesar-notas
+- p075-lista-multiplica
+- p076-meses-dia-nombre
+- p077-lista-aleatorios-suma
+- p078-ciudades
+- p079-lista-impares
+
+# Actividad 12
+- p080-estudiante
+- p081-calificaciones
+- p082-nombres y edades
+- p083-conversion-medida
+- p084-conversion-moneda
+
+
