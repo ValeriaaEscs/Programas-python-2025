@@ -124,4 +124,9 @@
 - p083-conversion-medida
 - p084-conversion-moneda
 
-
+# Actividad 13
+- p085–procesar pizza
+- p086–lista-dic-auto
+- p087-lista-dic-estudiante
+- p088-cliente-productos
+- p089-area-figuras
