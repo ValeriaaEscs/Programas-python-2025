@@ -160,3 +160,7 @@
 - p114-factorial
 - p115-calificacion-letra
 - p116-suma-rango
+
+# Tarea 7
+- p098-personas
+- p099-numeros
